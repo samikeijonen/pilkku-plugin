@@ -1,0 +1,69 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Pilkku Plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-09-15 17:28+0200\n"
+"PO-Revision-Date: 2012-09-15 17:29+0200\n"
+"Last-Translator: Sami Keijonen <sami.keijonen@foxnet.fi>\n"
+"Language-Team: Foxnet <sami.keijonen@foxnet.fi>\n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_x;esc_attr__;esc_attr_e;"
+"esc_html__;esc_html_e;_n;_x:1,2c;_n_noop:1,2;_n:1,2\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.5.3\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: pilkku-plugin.php:84
+#, php-format
+msgid "Mine <span class=\"count\">(%s)</span>"
+msgid_plural "Mine <span class=\"count\">(%s)</span>"
+msgstr[0] "Oma <span class=\"count\">(%s)</span>"
+msgstr[1] "Omat <span class=\"count\">(%s)</span>"
+
+#: pilkku-plugin.php:105 pilkku-plugin.php:116
+msgid "Tutorials"
+msgstr "Ohjeet"
+
+#: pilkku-plugin.php:106
+msgid "Tutorial"
+msgstr "Ohje"
+
+#: pilkku-plugin.php:107
+msgid "Add New"
+msgstr "Lisää uusi"
+
+#: pilkku-plugin.php:108
+msgid "Add New Tutorial"
+msgstr "Lisää uusi ohje"
+
+#: pilkku-plugin.php:109
+msgid "Edit Tutorial"
+msgstr "Editoi ohjetta"
+
+#: pilkku-plugin.php:110
+msgid "New Tutorial"
+msgstr "Uusi ohje"
+
+#: pilkku-plugin.php:111
+msgid "View Tutorial"
+msgstr "Näytä ohje"
+
+#: pilkku-plugin.php:112
+msgid "Search Tutorials"
+msgstr "Etsi ohjeita"
+
+#: pilkku-plugin.php:113
+msgid "No tutorials found"
+msgstr "Ohjeita ei löytynyt"
+
+#: pilkku-plugin.php:114
+msgid "No tutorials found in Trash"
+msgstr "Roskakorista ei löytynyt ohjeita"
+
+#: pilkku-plugin.php:115
+msgid "Parent Tutorial:"
+msgstr "Emo-ohje:"
