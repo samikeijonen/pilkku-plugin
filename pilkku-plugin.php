@@ -104,7 +104,7 @@ function pilkku_plugin_edit_views_filterable( $views ) {
  */
 function pilkku_plugin_register_cpt_tutorial() {
 
-    $labels = array( 
+	$labels = array( 
 		'name'					=> __( 'Tutorials', 'pilkku-plugin' ),
 		'singular_name'			=> __( 'Tutorial', 'pilkku-plugin' ),
 		'add_new'				=> __( 'Add New', 'pilkku-plugin' ),
