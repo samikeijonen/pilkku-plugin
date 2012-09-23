@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Pilkku Plugin\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-09-15 17:28+0200\n"
-"PO-Revision-Date: 2012-09-15 17:29+0200\n"
+"POT-Creation-Date: 2012-09-21 20:03+0200\n"
+"PO-Revision-Date: 2012-09-21 20:03+0200\n"
 "Last-Translator: Sami Keijonen <sami.keijonen@foxnet.fi>\n"
 "Language-Team: Foxnet <sami.keijonen@foxnet.fi>\n"
 "Language: fi\n"
@@ -17,53 +17,53 @@ msgstr ""
 "X-Generator: Poedit 1.5.3\n"
 "X-Poedit-SearchPath-0: .\n"
 
-#: pilkku-plugin.php:84
+#: includes/functions.php:44
 #, php-format
 msgid "Mine <span class=\"count\">(%s)</span>"
 msgid_plural "Mine <span class=\"count\">(%s)</span>"
 msgstr[0] "Oma <span class=\"count\">(%s)</span>"
 msgstr[1] "Omat <span class=\"count\">(%s)</span>"
 
-#: pilkku-plugin.php:105 pilkku-plugin.php:116
+#: includes/post-types.php:14 includes/post-types.php:25
 msgid "Tutorials"
 msgstr "Ohjeet"
 
-#: pilkku-plugin.php:106
+#: includes/post-types.php:15
 msgid "Tutorial"
 msgstr "Ohje"
 
-#: pilkku-plugin.php:107
+#: includes/post-types.php:16
 msgid "Add New"
 msgstr "Lisää uusi"
 
-#: pilkku-plugin.php:108
+#: includes/post-types.php:17
 msgid "Add New Tutorial"
 msgstr "Lisää uusi ohje"
 
-#: pilkku-plugin.php:109
+#: includes/post-types.php:18
 msgid "Edit Tutorial"
 msgstr "Editoi ohjetta"
 
-#: pilkku-plugin.php:110
+#: includes/post-types.php:19
 msgid "New Tutorial"
 msgstr "Uusi ohje"
 
-#: pilkku-plugin.php:111
+#: includes/post-types.php:20
 msgid "View Tutorial"
 msgstr "Näytä ohje"
 
-#: pilkku-plugin.php:112
+#: includes/post-types.php:21
 msgid "Search Tutorials"
 msgstr "Etsi ohjeita"
 
-#: pilkku-plugin.php:113
+#: includes/post-types.php:22
 msgid "No tutorials found"
 msgstr "Ohjeita ei löytynyt"
 
-#: pilkku-plugin.php:114
+#: includes/post-types.php:23
 msgid "No tutorials found in Trash"
 msgstr "Roskakorista ei löytynyt ohjeita"
 
-#: pilkku-plugin.php:115
+#: includes/post-types.php:24
 msgid "Parent Tutorial:"
 msgstr "Emo-ohje:"
